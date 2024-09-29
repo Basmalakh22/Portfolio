@@ -15,7 +15,7 @@
           <div class="col-lg-8">
             <h2>Basmala Khaled</h2>
             <p>Backend Developer | PHP & Laravel Specialist</p>
-            <a href="about.html" class="btn-get-started">About Me</a>
+            <a href="{{ route('about') }}" class="btn-get-started">About Me</a>
           </div>
         </div>
       </div>
